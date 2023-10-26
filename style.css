@@ -97,6 +97,7 @@ ul li span {
     color: #555;
     text-align: center;
     line-height: 40px;
+    cursor: pointer ;
 }
 ul li span:hover{
     background: #edeef0;
